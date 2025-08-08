@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**SarvagyaSanjay/SarvagyaSanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 📡 I’m currently working on<br>Enhancing business decision-making through insightful data analysis, dashboards, and KPI tracking.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Data-driven projects, dashboard automation, and predictive analytics initiatives.<br><br>🤝 I’m looking for help with<br>Advanced data modeling techniques and optimizing SQL queries for large datasets using AI.<br><br>🌱 I’m currently learning<br>Machine learning for analytics, cloud-based data warehousing, and data visualization best practices.<br><br>💬 Ask me about<br>SQL, Excel, Power BI, data cleaning, and creating actionable business insights.<br><br>⚡ Fun fact<br>I can turn messy, chaotic spreadsheets into dashboards that provides executives a clear understanding.
 
