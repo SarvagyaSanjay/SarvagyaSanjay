@@ -9,10 +9,10 @@
   - Flash partition planning
   - Firmware integrity validation
 - 🛠️ Practical experience with:
-  - **ESP-IDF**
-  - **LittleFS**
+  - ESP-IDF
+  - LittleFS
   - OTA update APIs
-  - **MD5 checksum verification**
+  - MD5 checksum verification
   - Fault detection and handling
 - 🧪 Solved real-world embedded challenges such as:
   - Incomplete or interrupted firmware downloads
