@@ -1,5 +1,25 @@
 # 💫 About Me:
-Final year student from the dept. of Electronics and Communication Engineering, PES University, Bangalore. I have a keen interest in embedded systems and firmware development, with hands-on experience working on ESP32-S3–based platforms. I have designed and implemented a secure Over-The-Air (OTA) firmware update system supporting both Wi-Fi and GSM connectivity, focusing on reliability, flash partition planning, and firmware integrity. Through this work, I gained practical experience with ESP-IDF, LittleFS, OTA update mechanisms, checksum verification, and fault handling, while addressing real-world challenges such as incomplete downloads, watchdog resets, and boot-loop prevention. This experience has strengthened my understanding of low-level system behavior, debugging, and building robust embedded solutions for production-like environments.<br><br>
+- 🎓 **Final-year Electronics and Communication Engineering student** at **PES University, Bangalore**
+- 🔧 Strong interest in **embedded systems and firmware development**
+- 💡 Hands-on experience with **ESP32-S3–based platforms**
+- 🚀 Designed and implemented a **secure OTA (Over-The-Air) firmware update system**
+- 📶 OTA system supports both **Wi-Fi and GSM connectivity**
+- 🧠 Focused on:
+  - Reliability and fail-safe update mechanisms
+  - Flash partition planning
+  - Firmware integrity validation
+- 🛠️ Practical experience with:
+  - **ESP-IDF**
+  - **LittleFS**
+  - OTA update APIs
+  - **MD5 checksum verification**
+  - Fault detection and handling
+- 🧪 Solved real-world embedded challenges such as:
+  - Incomplete or interrupted firmware downloads
+  - Watchdog resets during long OTA operations
+  - Boot-loop prevention due to invalid firmware
+- 🐞 Strengthened skills in **low-level system debugging** and **production-ready embedded design**
+
 
 📡 I’m currently working on<br>Building and refining robust OTA firmware update solutions for ESP32-S3–based embedded devices, with a focus on secure firmware delivery, flash partition optimization, and fail-safe update mechanisms. My work involves improving reliability over Wi-Fi and GSM networks, enhancing firmware integrity verification, handling long update cycles safely, and strengthening recovery logic to prevent boot failures in real-world deployment scenarios.<br><br>
 
