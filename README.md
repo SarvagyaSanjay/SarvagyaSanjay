@@ -5,8 +5,7 @@ Final year student from the dept. of Electronics and Communication Engineering, 
   - Reliability and fail-safe update mechanisms
   - Flash partition planning
   - Firmware integrity validation
-- 🛠️ Practical experience with:
-  - ESP-IDF
+- 🛠️ working with:
   - LittleFS
   - OTA update APIs
   - MD5 checksum verification
