@@ -10,7 +10,7 @@ Final year student from the dept. of Electronics and Communication Engineering, 
   - OTA update
   - MD5 checksum verification
   - Fault detection and handling
-- 🧪 Solved real-world embedded challenges such as:
+- 🧪 Solved challenges such as:
   - Incomplete or interrupted firmware downloads
   - Boot-loop prevention due to invalid firmware
 <!---
