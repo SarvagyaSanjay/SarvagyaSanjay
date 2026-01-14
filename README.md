@@ -7,7 +7,7 @@ Final year student from the dept. of Electronics and Communication Engineering, 
   - Firmware integrity validation--->
 - 🛠️ working with:
   - LittleFS
-  - OTA update APIs
+  - OTA update
   - MD5 checksum verification
   - Fault detection and handling
 - 🧪 Solved real-world embedded challenges such as:
