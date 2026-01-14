@@ -14,8 +14,6 @@ Final year student from the dept. of Electronics and Communication Engineering, 
   - Incomplete or interrupted firmware downloads
   - Watchdog resets during long OTA operations
   - Boot-loop prevention due to invalid firmware
-- 🐞 Strengthened skills in **low-level system debugging** and **production-ready embedded design**
-
 
 📡 I’m currently working on<br>Building and refining robust OTA firmware update solutions for ESP32-S3–based embedded devices, with a focus on secure firmware delivery, flash partition optimization, and fail-safe update mechanisms. My work involves improving reliability over Wi-Fi and GSM networks, enhancing firmware integrity verification, handling long update cycles safely, and strengthening recovery logic to prevent boot failures in real-world deployment scenarios.<br><br>
 
