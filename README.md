@@ -12,11 +12,10 @@ Final year student from the dept. of Electronics and Communication Engineering, 
   - Fault detection and handling
 - 🧪 Solved real-world embedded challenges such as:
   - Incomplete or interrupted firmware downloads
-  - Watchdog resets during long OTA operations
   - Boot-loop prevention due to invalid firmware
 <!---
 📡 I’m currently working on<br>Building and refining robust OTA firmware update solutions for ESP32-S3–based embedded devices, with a focus on secure firmware delivery, flash partition optimization, and fail-safe update mechanisms.
-My work involves improving reliability over Wi-Fi and GSM networks, handling long update cycles safely, and strengthening recovery logic to prevent boot failures in real-world deployment scenarios.<br><br>
+My work involves improving reliability over Wi-Fi and GSM networks, handling long update cycles safely, and strengthening recovery logic to prevent boot failures in real-world deployment scenarios.<br><br>  Watchdog resets during long OTA operations
 --->
 In addition to embedded systems, I also hold a keen interest in data analytics and business intelligence, I have hands-on experience in SQL, Python, Power BI, and Excel, where I have worked on academic projects and personal initiatives to analyze datasets, create visual dashboards, and draw actionable insights. My background in engineering has strengthened my problem-solving, logical thinking, and attention to detail. I am eager to apply my skills in real-world scenarios, learn from industry professionals, and contribute to data-driven decision-making in a professional environment.
 
