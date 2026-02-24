@@ -2,7 +2,7 @@
 Final year student from PES University, Bangalore. I have a keen interest in embedded systems and firmware development, with hands-on experience working on ESP32-S3–based platforms. I have designed and implemented a secure Over-The-Air (OTA) firmware update system supporting both Wi-Fi and GSM connectivity.
 <!---
 - 🧠 Focused on:
-  - Reliability and fail-safe update mechanisms
+  - Reliability and fail-safe update mechanism
   - Flash partition planning
   - Firmware integrity validation--->
 - 🛠️ working with:
