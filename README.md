@@ -1,11 +1,12 @@
 # 💫 About Me:
-Final year student from PES University, Bangalore. I have a keen interest in embedded systems and firmware development, with hands-on experience working on ESP32-S3–based platforms. I have designed and implemented a secure Over-The-Air (OTA) firmware update system supporting both Wi-Fi and GSM connectivity.
+Final year student from PES University, Bangalore. Currently, developing embedded firmware for ESP32-S3 platforms, implementing secure OTA firmware updates using Wi-Fi and GSM.
 <!---
+I have a keen interest in embedded systems and firmware development, with hands-on experience working on ESP32-S3–based platforms. I have designed and implemented a secure Over-The-Air (OTA) firmware update system supporting both Wi-Fi and GSM connectivity.
 - 🧠 Focused on:
   - Reliability and fail-safe update mechanism
   - Flash partition planning
   - Firmware integrity validation--->
-- 🛠️ working with:
+<!-- 🛠️ working with:
   - LittleFS
   - OTA update
   - MD5 checksum verification
@@ -13,6 +14,7 @@ Final year student from PES University, Bangalore. I have a keen interest in emb
 - 🧪 Solved challenges such as:
   - Incomplete or interrupted firmware downloads
   - Boot-loop prevention due to invalid firmware
+  --->
 <!---
 📡 I’m currently working on<br>Building and refining robust OTA firmware update solutions for ESP32-S3–based embedded devices, with a focus on secure firmware delivery, flash partition optimization, and fail-safe update mechanisms.
 My work involves improving reliability over Wi-Fi and GSM networks, handling long update cycles safely, and strengthening recovery logic to prevent boot failures in real-world deployment scenarios.<br><br>  Watchdog resets during long OTA operations
