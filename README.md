@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final year student from PES University, Bangalore. Currently, developing embedded firmware for ESP32-S3 platforms, implementing secure OTA firmware updates using Wi-Fi and GSM.
+Final year student from PES University, Bangalore. Currently developing embedded firmware for ESP32-S3 platforms, implementing secure OTA firmware updates using Wi-Fi and GSM.
 <!---
 I have a keen interest in embedded systems and firmware development, with hands-on experience working on ESP32-S3–based platforms. I have designed and implemented a secure Over-The-Air (OTA) firmware update system supporting both Wi-Fi and GSM connectivity.
 - 🧠 Focused on:
